@@ -1,0 +1,11 @@
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\bin\Debug\AplicativoEmSala.exe.config
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\bin\Debug\AplicativoEmSala.exe
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\bin\Debug\AplicativoEmSala.pdb
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.csproj.AssemblyReference.cache
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.csproj.SuggestedBindingRedirects.cache
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.Form1.resources
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.Properties.Resources.resources
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.csproj.GenerateResource.cache
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.exe
+C:\Users\renat\OneDrive\Área de Trabalho\Ferramentas_Visuais\AplicativoEmSala\AplicativoEmSala\obj\Debug\AplicativoEmSala.pdb
